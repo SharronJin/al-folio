@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Masters student in Education at Oxford University
+subtitle: 
 
 profile:
   align: right
@@ -18,7 +18,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi! I'm Sharron (Luyang) Jin and I'm a masters student at Oxford University. 
+Hi! I'm Sharron (Luyang) Jin and I'm a masters student in Education at Oxford University.
 
 My interdisciplinary backgrounds in International Media and Communications Studies, as well as HIgher Education, has offered me further insights into the role of education in the rapidly changing global context, as well as its interrelations with the economic, social, and political development.
 
