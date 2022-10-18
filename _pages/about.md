@@ -24,5 +24,5 @@ My interdisciplinary backgrounds in International Media and Communications Studi
 
 I am skilled at several instruments, and achieved the highest-level certificate (grade 10) in piano playing. I also enjoy many sports, and was the secretary for the Oxford University Gliding Club.
 
-I have travelled in 32 countries, taught in 3, and I can speak Mandarin (native), English (fluent), French (intermediate), Polish (basic) and Japanese (basic). 
+I have travelled and volunteered to teach in 32 countries, and I can speak Mandarin (native), English (fluent), French (intermediate), Polish (basic) and Japanese (basic). 
 
